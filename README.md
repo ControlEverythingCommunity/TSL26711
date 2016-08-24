@@ -81,7 +81,6 @@ Run the c program.
 $> ./TSL26711
 ```
 
-
 ## Onion Omega
 
 Get Started and setting up the Onion Omega according to steps provided at :
@@ -101,4 +100,5 @@ Download (or git pull) the code in Onion Omega. Run the program.
 ```cpp
 $> python TSL26711.py
 ```
+
 #####The code output is the raw value of proximity.
